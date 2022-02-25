@@ -12,6 +12,7 @@ More detail on the intercomparison design and the construction of this database 
 When using this scenario database or exporting figures from any code included in this repository, please use the citation below. You should also include the version number of the database to ensure reproducibility of your work.
 
 Oreggioni, G., Roelfsema, M., Mikropoulos, S., Van Vuuren, D.P. & Staffell, I. (2022). _Model intercomparison database for climate-neutral European energy scenarios. Deliverable 8.2. Sustainable Energy Transitions Laboratory (SENTINEL) project._ London: Imperial College London (ICL)
+
 <br />
 
 
