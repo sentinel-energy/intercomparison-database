@@ -1,5 +1,5 @@
 # The SENTINEL intercomparison database
-This is the model intercomparison database, maintained by the [SENTINEL collaboration](https://sentinel.energy).
+This is the model intercomparison database maintained by the [SENTINEL collaboration](https://sentinel.energy).
 
 It contains results from several energy systems models for scenarios of deep decarbonisation in Europe.  Specifically, the model intercomparison covers decarbonisation trajectories that meet 2030 and 2050 emission caps compatible with climate neutrality in Europe (the ‘climate neutrality’ scenario), and trajectories that assume no further policies for emissions reduction are made (the ‘current trends’ scenario). A tailored IAMC format has been developed for reporting and sharing results among partners and with external participants. 
 
