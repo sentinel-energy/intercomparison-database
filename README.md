@@ -47,7 +47,7 @@ Seven models (or combinations of models) contributed to the current release of t
 
 
 ## Format of the scenario ensemble
-The scenario database is provided in a plain-text CSV file.  Each row describes a single result – the value of a specific variable over time, from one model, scenario and region.  The columns for each results are as follows:
+The scenario database is provided in a plain-text CSV file.  Each row describes a single result: the value of a specific variable over time, from one model, scenario and region.  The columns for each result are as follows:
 
 *Model*: A string identifying which model produced the result: ``Calliope``, ``DESSTINEE``, ``EMMA``, ``Energy_PLAN``, ``HEB``, ``IMAGE``
 
@@ -61,7 +61,7 @@ The scenario database is provided in a plain-text CSV file.  Each row describes 
 - ``CEU&WEU`` for the combination of Western and Central Europe regions (covering 43 countries in total) as defined [here](https://models.pbl.nl/image/index.php/Region_classification_map).
 - Individual countries are identified by their ISO3 code 
 
-*Code*: The IAMC code to describe the variable.  1429 unique codes are included in this dataset, which are described further in the [Deliverable 8.2 report](URL).
+*Code*: The IAMC code to describe the variable.  1215 unique codes are included in this dataset, which are described further in the [Deliverable 8.2 report](URL).
 
 *Unit*: The unit in which the results are reported
 - Monetary values are measured in 2015 Euros
