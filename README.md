@@ -17,14 +17,20 @@ Oreggioni, G., Roelfsema, M., Mikropoulos, S., Van Vuuren, D.P. & Staffell, I. (
 
 
 ## Release notes
+### Release 1.2 (15/12/2022)
+- Update of the main intercomparison database (``sentinel_intercomparison_scenario_data_r1.2.csv``) to include results from two new models, PROMETHEUS and PyPSA.
+- Addition of the in-depth experiments on harmonisation between models to coincide with submission of Deliverable 8.4 of the SENTINEL project.
+
+
 ### Release 1.0 (25/02/2022)
-Initial release to coincide with submission of Deliverable 8.2 of the SENTINEL project.
+- Initial release to coincide with submission of Deliverable 8.2 of the SENTINEL project.
+
 
 <br />
 
 
 ## Studies contributing to the scenario ensemble
-Seven models (or combinations of models) contributed to the current release of the intercomparison database.  Further details about the models can be 
+Seven models (or combinations of models) contributed to the current release of the intercomparison database:
 
 
 -	[Calliope][Calliope] (coupled with [DESSTINEE][DESSTINEE] and [HEB][HEB] for inputs)
@@ -34,6 +40,8 @@ Seven models (or combinations of models) contributed to the current release of t
 -	[Energy_PLAN][Energy_PLAN] (coupled with [DESSTINEE][DESSTINEE] and [HEB][HEB] for inputs)
 -	[HEB][HEB] (coupled with [QTDIAN][QTDIAN] for inputs)
 -	[IMAGE][IMAGE]
+- [PROMETHEUS][PROMETHEUS]
+- [PyPSA][PyPSA]
 
 [Calliope]: https://sentinel.energy/model/euro-calliope/ 
 [DESSTINEE]: https://sentinel.energy/model/desstinee-demand/
@@ -42,6 +50,8 @@ Seven models (or combinations of models) contributed to the current release of t
 [EMMA]: https://sentinel.energy/model/emma/
 [Energy_PLAN]: https://sentinel.energy/model/energyplan/
 [IMAGE]: https://sentinel.energy/model/image/
+[PROMETHEUS]: https://e3modelling.com/modelling-tools/prometheus/
+[PyPSA]: https://pypsa.org/
 
 <br />
 
